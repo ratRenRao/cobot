@@ -1,4 +1,4 @@
 require("babel-core/register");
-require("Cobot");
+require("cobot");
 
 new ApiConnector().GetAllTradingPairs();
